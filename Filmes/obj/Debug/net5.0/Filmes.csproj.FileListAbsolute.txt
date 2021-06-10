@@ -1,0 +1,16 @@
+C:\Users\João\Filmes\bin\Debug\net5.0\Filmes.exe
+C:\Users\João\Filmes\bin\Debug\net5.0\Filmes.deps.json
+C:\Users\João\Filmes\bin\Debug\net5.0\Filmes.runtimeconfig.json
+C:\Users\João\Filmes\bin\Debug\net5.0\Filmes.runtimeconfig.dev.json
+C:\Users\João\Filmes\bin\Debug\net5.0\Filmes.dll
+C:\Users\João\Filmes\bin\Debug\net5.0\ref\Filmes.dll
+C:\Users\João\Filmes\bin\Debug\net5.0\Filmes.pdb
+C:\Users\João\Filmes\obj\Debug\net5.0\Filmes.csproj.AssemblyReference.cache
+C:\Users\João\Filmes\obj\Debug\net5.0\Filmes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\João\Filmes\obj\Debug\net5.0\Filmes.AssemblyInfoInputs.cache
+C:\Users\João\Filmes\obj\Debug\net5.0\Filmes.AssemblyInfo.cs
+C:\Users\João\Filmes\obj\Debug\net5.0\Filmes.csproj.CoreCompileInputs.cache
+C:\Users\João\Filmes\obj\Debug\net5.0\Filmes.dll
+C:\Users\João\Filmes\obj\Debug\net5.0\ref\Filmes.dll
+C:\Users\João\Filmes\obj\Debug\net5.0\Filmes.pdb
+C:\Users\João\Filmes\obj\Debug\net5.0\Filmes.genruntimeconfig.cache
